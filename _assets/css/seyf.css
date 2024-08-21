@@ -1121,7 +1121,7 @@ ul {
 
 .mobile-nav__content {
   width: 300px;
-  background-color: var(--insur-black);
+  background-color: #1a6090;
   z-index: 10;
   position: relative;
   height: 100%;
@@ -2839,7 +2839,8 @@ ul {
 .about-one {
   position: relative;
   display: block;
-  padding: 88px 88px 88px;
+  padding-top: 88px;
+  padding-bottom: 88px;
   background-color: var(--insur-white);
   z-index: 1;
 }
